@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Isha Akram 👩‍💻</h1>
+<h1 align="center">Hi there, I'm Isha Akram </h1>
 <p align="center">🚀 BCA Final Year Student | Python Developer | Tech Explorer</p>
 
 ---
